@@ -17,4 +17,7 @@ function eggDrop(e,f){
 }
 
 
+console.log(3);
+
+
 eggDrop(2,10);
